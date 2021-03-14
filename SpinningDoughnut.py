@@ -28,7 +28,7 @@ y_offset = rows / 2
 A, B = 0, 0  # rotating animation
 
 theta_spacing = 10
-phi_spacing = 2 # for faster rotation change to 2, 3 or more, but first change 86, 87 lines as commented
+phi_spacing = 2 # for faster rotation change to 2, 3 or more, but first change 88, 89 lines as commented
 
 chars = ".,-~:;=!*#$@"  # luminance index
 
